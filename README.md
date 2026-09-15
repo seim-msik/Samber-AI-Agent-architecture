@@ -1,1 +1,3 @@
 # Samber-AI-Agent-architecture
+Samberは二重過程理論から着想を得たAIエージェントアーキテクチャです。
+SamberはMambaとtransformerのモデルたちを組み合わせてハイブリット化させることで、生成速度を改善させたり、計算量を減らしたりするのが目標です！！
